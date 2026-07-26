@@ -1,6 +1,6 @@
 # Mathieu AVERSENC-BOUISSIERE
 
-Développeur web passionné, créateur et producteur actif au sein de l'association **GOTS** (Games On The Stage). 
+Développeur passionné, créateur et producteur actif au sein de l'association **GOTS** (Games On The Stage). 
 Curieux et touche-à-tout, j'aime concevoir des projets de A à Z et faire les choses par moi-même. De la création de sites et d'applications web modernes à l'exploration d'autres langages (Java, Python, Go...).
 
 ---
