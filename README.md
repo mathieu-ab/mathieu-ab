@@ -15,7 +15,7 @@ Curieux et touche-à-tout, j'aime concevoir des projets de A à Z et faire les c
 
 ### Stack Technique & Compétences
 
-* **Languages :** Go, JavaScript (ES6+), Dart, HTML5 / CSS3
+* **Languages :** Go, JavaScript (ES6+), Dart, HTML5 / CSS3, Python, Java
 * **Front-end & Mobile :** React, Flutter, Vite
 * **Back-end & Databases :** Node.js, PostgreSQL
 * **Infra, Devops & Réseau :** Auto-hébergement, Cloudflare, Tailscale (VPN)
